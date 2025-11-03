@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Mona and I recently graduated in Applied Informatics with a specialisation in AI and Data-Engineering. I am passionate about the possible ways to apply AI to solve real-life problems.
+
+🤖 During my internship with AWS I created the [Swift Bedrock Library](https://github.com/build-on-aws/swift-bedrock-library?tab=readme-ov-file). For more information about the library check out my talk [Unlock generative AI for Server-Side Development](https://www.youtube.com/watch?v=eDkbXNleMnA) or some example code in the [Swift Bedrock Library Demo](https://github.com/monadierickx/swift-bedrock-library-demo).
+
+🥔 I wrote my bachelors thesis about using AI to process multispectral remote sensing images. I worked with research centre Viaverda and contributed to the QGIS plug-in [NDVeye](https://github.com/zabop/ndveye). By using the improved plug-in for counting potato crops we reached an accuracy of 99%. 
+
 <!--
 **monadierickx/monadierickx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
